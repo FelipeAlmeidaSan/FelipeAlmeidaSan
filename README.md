@@ -97,22 +97,20 @@ Hi! My name is Felipe Almeida, I'm 22 years old and I'm from Sergipe, Brazil. I'
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
-<img 
+ <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=FelipeAlmeidaSan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
 <img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      width=
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAlmeidaSan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 
 <br/>
