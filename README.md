@@ -109,7 +109,7 @@ Hi! My name is Felipe Almeida, I'm 22 years old and I'm from Sergipe, Brazil. I'
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    width= 50%
+    width= 49%
     style="padding-right: 2px;" 
     src="https://github-readme-stats.vercel.app/api?username=FelipeAlmeidaSan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -118,7 +118,7 @@ Hi! My name is Felipe Almeida, I'm 22 years old and I'm from Sergipe, Brazil. I'
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      width= 50%
+      width= 49%
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAlmeidaSan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
